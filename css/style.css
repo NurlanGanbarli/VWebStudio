@@ -1389,6 +1389,10 @@ img{
 	position:relative;
 }
 
+.main-header .header-upper .logo-box .logo img{
+	width: 170px;
+}
+
 .main-header .outer-box{
 	position: relative;
 	float:right;
@@ -1755,6 +1759,10 @@ img{
 
 .sticky-header .logo{
 	padding:2px 0px 2px;
+}
+
+.sticky-header .logo img{
+	width: 132px;
 }
 
 .fixed-header .sticky-header{
@@ -5783,6 +5791,10 @@ img{
 .main-footer .logo-widget .logo{
 	position:relative;
 	margin-bottom:15px;
+}
+
+.main-footer .logo-widget .logo img{
+	width: 170px;
 }
 
 .main-footer .logo-widget .text{
