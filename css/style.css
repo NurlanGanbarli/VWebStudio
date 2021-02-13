@@ -4284,6 +4284,7 @@ img{
 	text-align:left;
 	border-radius:10px;
 	padding:50px 45px 60px;
+	height: 335px;
 	transition:all 600ms ease;
 	-moz-transition:all 600ms ease;
 	-webkit-transition:all 600ms ease;
