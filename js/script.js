@@ -1,8 +1,15 @@
 (function($) {
 	
 	"use strict";
+
+	// fetch('./header.html').then(response => {
+	// 	return response.text();
+	// }).then(data => {
+	// 	document.querySelector('header').innerHTML = data;
+	// })
 	
-	
+	$(".main-header").load("header.html"); 
+  	// $("#footer").load("footer.html"); 
 	//Hide Loading Box (Preloader)
 	function handlePreloader() {
 		if($('.preloader').length){
