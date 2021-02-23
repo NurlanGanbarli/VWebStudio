@@ -8,7 +8,7 @@
 	// 	document.querySelector('header').innerHTML = data;
 	// })
 	
-	$(".main-header").load("header.html"); 
+	$("header").load("header.html"); 
   	// $("#footer").load("footer.html"); 
 	//Hide Loading Box (Preloader)
 	function handlePreloader() {
