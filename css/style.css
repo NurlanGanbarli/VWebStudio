@@ -1187,7 +1187,6 @@ img{
 	font-weight:600;
 	padding-right:60px;
 	display:inline-block;
-	text-transform:uppercase;
 	font-family: 'Poppins', sans-serif;
 }
 
@@ -6549,6 +6548,7 @@ img{
 	text-align:left;
 	border-radius:0px;
 	padding:50px 45px 60px;
+	height: 100%;
 	transition:all 600ms ease;
 	-moz-transition:all 600ms ease;
 	-webkit-transition:all 600ms ease;
@@ -14131,9 +14131,9 @@ img{
 	left:auto;
 }
 
-.rtl .sticky-header .main-menu .navigation > li:last-child{
+/* .rtl .sticky-header .main-menu .navigation > li:last-child{
 	margin-right:0px;
-}
+} */
 
 .rtl .team-single-section .image-column{
 	order:2;
