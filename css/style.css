@@ -1816,6 +1816,10 @@ img{
 	margin-right:0px;
 }
 
+.sticky-header .main-menu .navigation > li:last-child{
+	margin-right:0px;
+}
+
 .sticky-header .main-menu .navigation > li:before,
 .sticky-header .main-menu .navigation > li:after{
 	
