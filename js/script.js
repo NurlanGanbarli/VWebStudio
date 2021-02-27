@@ -8,8 +8,9 @@
 	// 	document.querySelector('header').innerHTML = data;
 	// })
 	
-	$("header").load("header.html"); 
-  	// $("#footer").load("footer.html"); 
+	$("header").load("header.html");
+	$("footer").load("footer.html"); 
+	$(".newsletter-section").load("subscribe.html");
 	//Hide Loading Box (Preloader)
 	function handlePreloader() {
 		if($('.preloader').length){
@@ -65,9 +66,6 @@
 		});
 		
 	}
-	
-	
-	
 	
 	
 	//Header Search
