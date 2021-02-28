@@ -1817,7 +1817,7 @@ img{
 }
 
 .sticky-header .main-menu .navigation > li:last-child{
-	margin-right:0px;
+	margin-right:0px !important;
 }
 
 .sticky-header .main-menu .navigation > li:before,
