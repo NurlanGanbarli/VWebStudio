@@ -15978,3 +15978,25 @@ img{
 .color-palate{
 	display:none;
 }
+
+
+/* wp integrations */
+.wp {
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 42px;
+    height: 42px;
+    position: fixed;
+    bottom: 10%;
+    right: 1.5%;
+    background: #ffffff;
+    z-index: 999;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.wp i {
+	font-size: 23px;
+    color: #07bc4c;
+}
