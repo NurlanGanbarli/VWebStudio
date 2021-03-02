@@ -15986,18 +15986,18 @@ img{
 	display: flex;
     align-items: center;
     justify-content: center;
-    width: 62px;
-    height: 62px;
+    /* width: 62px;
+    height: 62px; */
     position: fixed;
-    bottom: 10%;
+    bottom: 1.25%;
     left: 1.5%;
-    background: #ffffff;
+    /* background: #ffffff; */
     z-index: 999;
     border-radius: 50%;
     cursor: pointer;
 }
 
 .wp i {
-	font-size: 30px;
+	font-size: 40px;
     color: #07bc4c;
 }
