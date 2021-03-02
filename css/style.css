@@ -15986,8 +15986,8 @@ img{
 	display: flex;
     align-items: center;
     justify-content: center;
-    width: 42px;
-    height: 42px;
+    width: 62px;
+    height: 62px;
     position: fixed;
     bottom: 10%;
     right: 1.5%;
@@ -15998,6 +15998,6 @@ img{
 }
 
 .wp i {
-	font-size: 23px;
+	font-size: 30px;
     color: #07bc4c;
 }
