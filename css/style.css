@@ -5857,7 +5857,7 @@ img{
 
 .list-link li a{
 	position:relative;
-	color:#ffffff;
+	color:#ffffff !important;
 	font-size:14px;
 	padding-left:15px;
 	-webkit-transition:all 300ms ease;
