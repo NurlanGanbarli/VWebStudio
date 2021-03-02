@@ -15990,7 +15990,7 @@ img{
     height: 62px;
     position: fixed;
     bottom: 10%;
-    right: 1.5%;
+    left: 1.5%;
     background: #ffffff;
     z-index: 999;
     border-radius: 50%;
